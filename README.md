@@ -12,7 +12,7 @@
   <p align="center">
     A platform for collaborative thought development
     <br />
-    <a href="sts-docs/functional-spec/overview.md"><strong>Explore the spec to learn about the project idea more</strong></a>
+    <a href="sts-docs/functional-spec/1-overview.md"><strong>Explore the spec to learn about the project idea more</strong></a>
   </p>
 </div>
 
@@ -37,15 +37,15 @@ This project is intended primarily as an *exercise to learn* how to do that.
 
 This emphasis on learning shapes the plan I have. As you can see from the [Roadmap](#roadmap-🚗) below, I'm not developing the product 'scrum' or 'Agile' style. Nonetheless, I've tried to plan things in a way to avoid the trap of 'tutorial hell'. 
 
-You can read all about that plan [in my notes on what I've termed 'Iteration 0: Planning The Plan'](sts-docs/iteration-0-planning-the-plan/noob-estimation.md)
+You can read all about that plan [in my notes on what I've termed 'Iteration 0: Planning The Plan'](sts-docs/iteration-0-planning-the-plan/0-noob-estimation.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap 🚗
 
-* [x] **Iteration 0:** [Planning The Plan](sts-docs/iteration-0-planning-the-plan/noob-estimation.md)
+* [x] **Iteration 0:** [Planning The Plan](sts-docs/iteration-0-planning-the-plan/0-noob-estimation.md)
   * finished 16.10.2022
-* [ ] **Iteration 1:** [Fundamentals Of Web Dev](sts-docs/iteration-1-fundamentals/why-html-css-js.md)
+* [ ] **Iteration 1:** [Fundamentals Of Web Dev](sts-docs/iteration-1-fundamentals/0-why-html-css-js.md)
   * from 17.10.2022 - 26.10.2022
 * [ ] **Iteration 2:** Focusing On Front-End Frameworks and Issues
   * from 27.10.2022 - 09.11.2022

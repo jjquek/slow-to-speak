@@ -1,6 +1,6 @@
 # How I planned the plan
 
-So I've got [the basic idea for the project down.](../functional-spec/overview.md) How do I start?
+So I've got [the basic idea for the project down.](../functional-spec/1-overview.md) How do I start?
 
 This is how I went about doing coming up with the plan I had as of 17.10.22, which is when I started to go full-speed ahead with 'the journey'.
 

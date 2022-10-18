@@ -58,7 +58,7 @@ Given that my two most important goals have to do with learning, it's worth clar
 
 Templates can be useful when touring the zoo of concepts and ideas involved in software engineering because they give you a framework to relate the various ideas you come across. They help you to see 'the forest' among the 'trees'.
 
-Of course, templates are tentative (remember the problem of [noob estimation](noob-estimation.md)). So, they'll grow along with the process, and I'm not treating them as commandments.
+Of course, templates are tentative (remember the problem of [noob estimation](0-noob-estimation.md)). So, they'll grow along with the process, and I'm not treating them as commandments.
 
 That all being said, here's my current template for **each iteration**:
 

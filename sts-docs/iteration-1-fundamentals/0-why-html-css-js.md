@@ -44,7 +44,7 @@ Instead of offering my own justification for this, let me quote [from an instruc
 
 ## The Template
 
-In [a previous note](../iteration-0-planning-the-plan/higher-order-aims.md), I mentioned that in each iteration I will seek to answer a set of questions and specify some 'mini-deliverables' to complete. These mini deliverables should involve solving some smaller version of the larger problem I'm trying to solve, which is `Slow To Speak` itself. (See the link for elaboration.)
+In [a previous note](../iteration-0-planning-the-plan/1-higher-order-aims.md), I mentioned that in each iteration I will seek to answer a set of questions and specify some 'mini-deliverables' to complete. These mini deliverables should involve solving some smaller version of the larger problem I'm trying to solve, which is `Slow To Speak` itself. (See the link for elaboration.)
 
 Unlike subsequent iterations, I don't think there's much 'meta-learning' to be done on which tool to use. HTML, CSS, and Javascript simply are the core tools underlying much of web development.
 
