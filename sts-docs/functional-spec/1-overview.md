@@ -1,6 +1,4 @@
-# Slow To Speak - Functional Specification
-
-## Overview
+# Overview
 
 > `Slow To Speak` is a service for users to develop and publish their ideas *through* inner circles.
 

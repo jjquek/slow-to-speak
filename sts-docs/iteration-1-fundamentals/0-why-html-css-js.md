@@ -1,6 +1,5 @@
 # Why Not Just Learn The Frameworks?
 
-
 ## HTML & CSS & Javascript
 
 You might be thinking I'm like this:

@@ -1,4 +1,6 @@
 
+# Read This First
+
 **Last Update:** 18.10.2022
 
 This functional specification for `Slow To Speak` is a work in progress. The wording will need continual revision before finalization. 
