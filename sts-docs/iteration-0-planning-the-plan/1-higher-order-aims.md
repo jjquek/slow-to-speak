@@ -1,4 +1,4 @@
-## Clarifying Aims
+# Clarifying Aims
 
 I actually have some potentially competing aims, and I need to weight each of them relative to one another.
 

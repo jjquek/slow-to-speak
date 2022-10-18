@@ -2,9 +2,7 @@
 
 (This section is just for fun, and not really relevant for the main aim of the project-- learning full-stack development.
 
-But it might add a little color and detail to the kind of users I have in mind.)
-
----
+But I think it adds a little color to the kind of users I have in mind.)
 
 **Persona 1: Bartholemew.**
 
@@ -14,7 +12,7 @@ He has a bunch of other nerd-friends who he loves to discuss things with, but th
 
 **Persona 2: Bethany**
 
-Not the town. Bethany is an aspiring academic, but a tech-savy one. She wants to do what all blossoming graduate students wish to: publish, publish, publish. She could use `Overleaf`, `Word`, `Google Docs`, and email, but that's what her profs are using too. She wants to use something more `~her vibe~`-- young, modern, and slick. She wants that all with the ease of building up her ideas within her ivory tower crew. But, she's unlikely to persuade all of them to sign up for some unfamiliar software service, so she's got to do it with just their emails...
+Not the town. Bethany is an aspiring academic, but a tech-savy one. She wants to do what all blossoming graduate students wish to: publish, publish, publish. She could use `Overleaf`, `Word`, `Google Docs`, and email, but that's what her profs are using too. She wants to use something that's more her vibe~-- young, modern, and ~slick. She wants that all with the ease of building up her ideas within her ivory tower crew. But, she's unlikely to persuade all of them to sign up for some unfamiliar software service, so she's got to do it with just their emails...
 
 **Persona 3: Chad**
 

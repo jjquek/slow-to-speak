@@ -4,9 +4,9 @@
 
 Woah, there's a lot going on there. And what happened to the phrase 'collaborative thought development'? 
 
-STS is a platform for collaborative thought development. But like any other schamcy product tagline, it stands in need of definition. That's what I'm going to try and do in this overview.
+`Slow To Speak` (STS) is a platform for collaborative thought development. But like any other schamcy product tagline, it stands in need of definition. That's what I'm going to try and do in this overview.
 
-There are two main ideas in the quote above. Users:
+There are two main ideas. Users:
 * 'develop and publish their ideas'
 * '*through* inner circles'
 
@@ -38,9 +38,9 @@ This isn't quite like `Instagram`'s 'close friends' feature. Each pipeline (or s
 
 ### Toy Example
 
-Let's say you have just 2 followers, Alice and Bob. You are about to make a post that's entitled, `Hot Take Of The Day`. Gratefully, instead of immmediately polluting the public space with rash nonsense, you opt to push it through a particular pipeline. Stage 1 (or inner circle 1) includes Alice, and Stage 2 (inner circle 2) includes Bob *and Alice* (i.e., Alice can still see the post). 
+Let's say you have just 2 followers, Alice and Bob. You are about to make a post that's entitled, `Hot Take Of The Day`. Gratefully, instead of immmediately polluting the public space with rash words, you opt to push it through a pipeline. Stage 1 (or inner circle 1) includes Alice, and Stage 2 (inner circle 2) includes Bob *and Alice* (i.e., Alice can still see the post). 
 
-Your post gets pushed to Stage 1, Alice gets notified, and she comes back with, 'Don't be ridiculous. Plus, your argument commits logical fallacy $x$'.' Bitter, but rational, you concede that Alice is right and refine your post with more nuance. Alice then comments that she thinks your point is interesting now that it's been refined. Elated, you push it to Stage 2, and Bob gets notified. Bob thinks it's great too, and you decide to push it outside the inner circles into the wild; it's now visible on your public feed.
+Your post gets pushed to Stage 1, Alice gets notified, and she comes back with, 'Don't be ridiculous. Plus, your argument commits logical fallacy `x`'.' Bitter, but rational, you concede that Alice is right and refine your post with more nuance. Alice then comments that she thinks your point is interesting now that it's been refined. Elated, you push it to Stage 2, and Bob gets notified. Bob thinks it's great too, and you decide to push it outside the inner circles into the wild; it's now visible on your public feed.
 
 Next time, you could have Bob view a post before Alice.
 
