@@ -62,17 +62,17 @@ Of course, templates are tentative (remember the problem of [noob estimation](0-
 
 That all being said, here's my current template for **each iteration**:
 
-* [] Meta-Learning
+* [ ] Meta-Learning
   * What are the core problems and concepts in this space?
   * What are the most common solutions?
 
-* [] Understanding and Picking a Tool:
+* [ ] Understanding and Picking a Tool:
   * What makes this tool distinctive? OR What class of tools does this belong to (if any)?
   * What are some popular alternatives?
   * what are some limitations that have been voiced?
   * Why would it be at least OKAY to use for my project given my aims?
 
-* [] Mini-Deliverables:
+* [ ] Mini-Deliverables:
   * What can I build to practice with this tool AND / OR solve a less complex sub-problem of the larger problem?
 
 This will be fleshed out in more detail in subsequent iterations.
