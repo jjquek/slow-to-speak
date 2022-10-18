@@ -14,7 +14,7 @@
   <p align="center">
     A platform for collaborative thought development
     <br />
-    <a href="https://barry-in-his-moms-basement.gitbook.io/slow-to-speak-the-journey/"><strong>Explore the spec to learn about the project idea more</strong></a>
+    <a href="https://barry-in-his-moms-basement.gitbook.io/slow-to-speak-the-journey/"><strong>Explore the gitbook to learn about the project idea more</strong></a>
   </p>
 </div>
 
