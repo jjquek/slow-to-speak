@@ -2,20 +2,20 @@
 
 ## HTML & CSS & Javascript
 
-You might be thinking I'm like this:
+I admire those who are like this:
 
-<center>
+<p align="center">
     <a href="https://imgflip.com/i/6wsn98">
         <img src="https://i.imgflip.com/6wsn98.jpg" width="40%" title="made at imgflip.com"/>
     </a>
-    <div>
-        <a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a>
-    </div>
-</center>
+    <!-- <a align="center" href="https://imgflip.com/memegenerator">
+        from Imgflip Meme Generator
+    </a> -->
+</p>
 
-But no.  
+But I'm not like that.  
 
-Rather, the aim is to **learn the fundamental technologies that undergird both front-end and back-end frameworks**.
+But the rationale for focusing on the vanilla tools is to **learn what undergirds both front-end and back-end frameworks**.
 
 And that is because of two other aims:
 
