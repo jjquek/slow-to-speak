@@ -31,9 +31,7 @@
 
 ## About The Project 📚
 
-Despite having learnt a lot from [my time at Imperial](https://github.com/jjquek), I never had the chance to  build a full-stack application end-to-end myself.
-
-This project is intended primarily as an *exercise to learn* how to do that. 
+This project is intended primarily as a *learning exercise* in how to build and deploy a full-stack web application from scratch. 
 
 ## Why All The Writing?
 
