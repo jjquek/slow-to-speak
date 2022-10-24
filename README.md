@@ -18,7 +18,6 @@
 <a name="readme-toc"></a>
 
 <!-- TABLE OF CONTENTS -->
-Table of Contents
 - [Slow To Speak](#slow-to-speak)
   - [About The Project 📚](#about-the-project-)
   - [The Basic Idea 🌐](#the-basic-idea-)
