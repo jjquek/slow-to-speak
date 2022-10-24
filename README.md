@@ -93,7 +93,7 @@ This feature makes `Slow To Speak` like `Google Docs`.
   <img
     src="images/concentric-circles.png"
     alt="Depiction of how posts become progressively visible on Slow To Speak"
-    width="50%"
+    width="70%"
   />
 
   <figcaption>
