@@ -93,19 +93,17 @@ This feature makes `Slow To Speak` like `Google Docs`.
   <img
     src="images/concentric-circles.png"
     alt="Depiction of how posts become progressively visible on Slow To Speak"
-    width="50%"
+    width="80%"
   />
 
-  <figcaption>
-    You can choose for posts to become increasingly visible.
-  </figcaption>
 </figure>
+
 
 This isn't quite like `Instagram`'s 'close friends' feature. Each pipeline (or set of concentric circles) is *post-specific*. Follower A could be in the first circle for Post X, but in the outer circle for Post Y. You can set up some default circles to pick from for each post, or construct a specific one while you're making that post.
 
 Also, it's up to you whether you want to use a pipeline or not.
 
-2. ### It's optimized for queries, feedback, and discussion
+1. ### It's optimized for queries, feedback, and discussion
 
 `Slow To Speak` is a platform for *collaborative* thought development. I haven't ironed out the details of the queries yet, but I'm hoping to make it easy for users to ask and answer queries like:
 
