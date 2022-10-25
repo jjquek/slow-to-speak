@@ -1,5 +1,7 @@
 # Slow To Speak
 
+<a name="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/jjquek/slow-to-speak">
@@ -15,13 +17,14 @@
   </p>
 </div>
 
-<a name="readme-toc"></a>
 
 <!-- TABLE OF CONTENTS -->
 - [Slow To Speak](#slow-to-speak)
   - [About The Project 📚](#about-the-project-)
   - [The Basic Idea 🌐](#the-basic-idea-)
   - [Core Features 🧰](#core-features-)
+    - [Your followers can be organised into post-specific pipelines.](#your-followers-can-be-organised-into-post-specific-pipelines)
+    - [It's optimized for queries, feedback, and discussion](#its-optimized-for-queries-feedback-and-discussion)
   - [The Execution Plan](#the-execution-plan)
   - [Contact 👋](#contact-)
 
@@ -40,11 +43,7 @@
 
 This project is intended primarily as a *learning exercise* in how to build and deploy a full-stack web application from scratch. 
 
-Although the bulk of this `README` will try to describe and 'sell' the idea, I'm only doing so to explain what I envision the product to be. I'm not actually trying to sell it to anyone. 
-
-The aim is to build something in order to learn. 
-
-<p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## The Basic Idea 🌐
 
@@ -54,7 +53,7 @@ It's like a social media platform: you've got a private account, you can make po
 
 But it's not like a simple fusion between the two in some important ways. 
 
-<p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- 
 ## Core Principles 🤔
@@ -83,7 +82,7 @@ That can be great, but perhaps you'd like to work  -->
 
 There are two **features** that make `Slow To Speak` different from conventional social media/blogging platforms.
 
-1. ### Your followers can be organised into post-specific pipelines.
+### Your followers can be organised into post-specific pipelines.
 
 This feature makes `Slow To Speak` like `Google Docs`.
 
@@ -103,7 +102,11 @@ This isn't quite like `Instagram`'s 'close friends' feature. Each pipeline (or s
 
 Also, it's up to you whether you want to use a pipeline or not.
 
-1. ### It's optimized for queries, feedback, and discussion
+> Side-Note: I recently found out that Twitter has something called 'Twitter circles',
+
+which allows you to pick specific people to tweet to. 🤡 
+
+### It's optimized for queries, feedback, and discussion
 
 `Slow To Speak` is a platform for *collaborative* thought development. I haven't ironed out the details of the queries yet, but I'm hoping to make it easy for users to ask and answer queries like:
 
@@ -115,7 +118,7 @@ Also, it's up to you whether you want to use a pipeline or not.
 
 Also, like many other social media platforms, you can DM people, create chat/discussion groups with people, find other users you didn't know before to collaborate with, and so on...
 
-<p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## The Execution Plan
 
@@ -133,7 +136,7 @@ Here's the high-level schedule I'm working by as of now (`24.10.22`):
 
 I'll plan better as I learn more, but this timeline gives me a heuristic to work by. 
 
-<p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- TODO : will add deliverables here as they are actually constructed. -->
@@ -159,7 +162,7 @@ If you'd like to chat about the project more or give some suggestions, reach out
 
 I'd love to hear from you! : )
 
-<p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ## Acknowledgements 💯
 
