@@ -22,7 +22,9 @@
   - [About The Project 📚](#about-the-project-)
   - [The Basic Idea 🌐](#the-basic-idea-)
   - [Core Features 🧰](#core-features-)
-  - [The Execution Plan](#the-execution-plan)
+  - [What I'm Currently Doing](#what-im-currently-doing)
+    - [The Execution Plan](#the-execution-plan)
+    - [What I'm Working On](#what-im-working-on)
   - [Contact 👋](#contact-)
 
 <!-- <details>
@@ -117,21 +119,29 @@ Also, like many other social media platforms, you can DM people, create chat/dis
 
 <p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
 
-## The Execution Plan
+## What I'm Currently Doing 
 
-The plan is to build as I learn, and learn as I build. 
+I will use this space to provide an update on my progress, as well as link to smaller projects I build as I learn the stack/prototype ideas.
 
-Here's the high-level schedule I'm working by as of now (`24.10.22`):
+### The Execution Plan
 
-* [ ] Phase 1 : Practice the stack. 
-  * [ ] Phase 1.1 : Typescript [`02.11.22` end.]
-  * [ ] Phase 1.2 : React.js and Next.js [`11.11.22` end.]
-* [ ] Phase 2 : Specify The Basic Design Completely
-  * [ ] Phase 2.1 : Model the Database & Draft The Technical Spec [`18.11.22` end.]
-  * [ ] Phase 2.2 : Get feedback on technical choices and complete the V1 of the Product Design [`24.11.22` end.] 
-* [ ] Phase 3 : tbd... 🤡
+The first step is to **build the MVP**.
 
-I'll plan better as I learn more, but this timeline gives me a heuristic to work by. 
+There are a number of features that I hope to implement which will make `STS` different from just 'Twitter' plus 'Google Docs', but I think the *core* feature to work on first is the configurable post-specific **pipeline** users can push posts through.
+
+So, the MVP is roughly something like: `Twitter` but with an optional pipeline.
+
+### What I'm Working On
+
+The first step is to build this MVP. I'm following something like this:
+* [ ] Learn the stack.
+  * Or, at least most of it. I know I'm going to use `React.js` and `Typescript`.
+  * I am unsure whether or not I'll use `next.js`. And I haven't confirmed how I'll handle the back-end.
+  * However, the plan will be to learn some stack that involves `React.js` and `Typescript` to the point that I can do the next step 
+* [ ] Learn how to build something like Twitter
+  * At least in terms of its core components. 
+* [ ] Consider what I might need to tweek to add the pipeline feature
+  * At this point, I might need to consider whether or not I'll go with the stack I used in the previous step, or need to pick something else up.
 
 <p align="right">(<a href="#readme-toc">back to TOC</a>)</p>
 
