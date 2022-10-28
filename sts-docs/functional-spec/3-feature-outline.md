@@ -1,6 +1,6 @@
 # Features
 
-At a very high level, I outline the features of the application here. The details will be incrementally ironed out in the [user flow](5-user-flow.md) and [screen-by-screen](4-screen-by-screen.md) sections.
+At a very high level, I outline the features of the application here. The details will be incrementally ironed out in the [user flow](4-user-flow.md) and [screen-by-screen](5-screen-by-screen.md) sections.
 
 ## Core Features
 
@@ -13,8 +13,6 @@ At a very high level, I outline the features of the application here. The detail
     * a notification feed that (can be) linked to their emails
     * the ability to comment on other posts.
 * `STS`'s arguably **distinctive** feature is the post-specific *pipelines* that can be constructed.
-
-Check back on the [overview](1-overview.md) for a sense of what the MVP would involve.
 
 ## Other Features
 
