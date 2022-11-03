@@ -22,6 +22,8 @@
   - [About The Project 📚](#about-the-project-)
   - [The Basic Idea 🌐](#the-basic-idea-)
   - [Core Features 🧰](#core-features-)
+    - [Your followers can be organised into post-specific pipelines.](#your-followers-can-be-organised-into-post-specific-pipelines)
+    - [It's optimized for queries, feedback, and discussion](#its-optimized-for-queries-feedback-and-discussion)
   - [What I'm Currently Doing](#what-im-currently-doing)
     - [The Execution Plan](#the-execution-plan)
     - [What I'm Working On](#what-im-working-on)
@@ -85,7 +87,7 @@ That can be great, but perhaps you'd like to work  -->
 
 There are two **features** that make `Slow To Speak` different from conventional social media/blogging platforms.
 
-1. ### Your followers can be organised into post-specific pipelines.
+### Your followers can be organised into post-specific pipelines.
 
 This feature makes `Slow To Speak` like `Google Docs`.
 
@@ -105,7 +107,7 @@ This isn't quite like `Instagram`'s 'close friends' feature. Each pipeline (or s
 
 Also, it's up to you whether you want to use a pipeline or not.
 
-1. ### It's optimized for queries, feedback, and discussion
+### It's optimized for queries, feedback, and discussion
 
 `Slow To Speak` is a platform for *collaborative* thought development. I haven't ironed out the details of the queries yet, but I'm hoping to make it easy for users to ask and answer queries like:
 
@@ -134,11 +136,9 @@ So, the MVP is roughly something like: `Twitter` but with an optional pipeline.
 ### What I'm Working On
 
 The first step is to build this MVP. I'm following something like this:
-* [ ] Learn the stack.
+* [ ] Get a basic understanding of the key tools.
   * Or, at least most of it. I know I'm going to use `React.js` and `Typescript`.
-  * I am unsure whether or not I'll use `next.js`. And I haven't confirmed how I'll handle the back-end.
-  * However, the plan will be to learn some stack that involves `React.js` and `Typescript` to the point that I can do the next step 
-* [ ] Learn how to build something like Twitter
+* [ ] Learn how to build something like Twitter/Social Media Platform
   * At least in terms of its core components. 
 * [ ] Consider what I might need to tweek to add the pipeline feature
   * At this point, I might need to consider whether or not I'll go with the stack I used in the previous step, or need to pick something else up.
